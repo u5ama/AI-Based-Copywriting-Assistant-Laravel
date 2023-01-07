@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="20" viewBox="0 0 19 20">
+  <g id="Group_138" data-name="Group 138" transform="translate(-56 -231)">
+    <g id="Rectangle_64" data-name="Rectangle 64" transform="translate(59 235)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="16" height="16" rx="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="15" height="15" rx="1.5" fill="none"/>
+    </g>
+    <g id="Path_153" data-name="Path 153" transform="translate(56 232)" fill="#3b4048">
+      <path d="M 14 15.5 L 2 15.5 C 1.172899961471558 15.5 0.5 14.82709980010986 0.5 14 L 0.5 2 C 0.5 1.172899961471558 1.172899961471558 0.5 2 0.5 L 14 0.5 C 14.82709980010986 0.5 15.5 1.172899961471558 15.5 2 L 15.5 14 C 15.5 14.82709980010986 14.82709980010986 15.5 14 15.5 Z" stroke="none"/>
+      <path d="M 2 1 C 1.448599815368652 1 1 1.448599815368652 1 2 L 1 14 C 1 14.55140018463135 1.448599815368652 15 2 15 L 14 15 C 14.55140018463135 15 15 14.55140018463135 15 14 L 15 2 C 15 1.448599815368652 14.55140018463135 1 14 1 L 2 1 M 2 0 L 14 0 C 15.10457038879395 0 16 0.8954296112060547 16 2 L 16 14 C 16 15.10457038879395 15.10457038879395 16 14 16 L 2 16 C 0.8954296112060547 16 0 15.10457038879395 0 14 L 0 2 C 0 0.8954296112060547 0.8954296112060547 0 2 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <text id="_" data-name="+" transform="translate(60 244)" fill="#fff" font-size="13" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>

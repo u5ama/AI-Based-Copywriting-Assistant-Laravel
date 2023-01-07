@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Group_30" data-name="Group 30" transform="translate(0.434 -0.353)">
+    <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(-0.434 0.353)" fill="#f8f8f8" stroke="#fff" stroke-width="10">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="55" fill="none"/>
+    </g>
+    <g id="Icon_ionic-logo-apple" data-name="Icon ionic-logo-apple" transform="translate(27.663 25.609)">
+      <path id="Path_78" data-name="Path 78" d="M44.177,10.821c-5.292,0-7.529,2.6-11.215,2.6-3.78,0-6.663-2.583-11.246-2.583-4.489,0-9.277,2.819-12.317,7.624-4.269,6.773-3.544,19.531,3.371,30.4,2.473,3.891,5.781,8.254,10.112,8.3h.079c3.765,0,4.883-2.536,10.065-2.567H33.1c5.1,0,6.127,2.552,9.876,2.552h.079c4.332-.047,7.813-4.883,10.286-8.758a43.083,43.083,0,0,0,3.812-7.34c-10-3.906-11.609-18.492-1.717-24.084-3.024-3.891-7.261-6.143-11.262-6.143Z" transform="translate(0 7.839)" fill="#fb8231"/>
+      <path id="Path_79" data-name="Path 79" d="M29.605,4.5a13.774,13.774,0,0,0-8.978,4.977c-1.953,2.441-3.56,6.064-2.93,9.577h.252a11.693,11.693,0,0,0,8.789-4.741A13.416,13.416,0,0,0,29.605,4.5Z" transform="translate(13.406)" fill="#fb8231"/>
+    </g>
+  </g>
+</svg>
